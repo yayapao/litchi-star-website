@@ -1,0 +1,11 @@
+# Star-Seeded
+
+Star-Seeded treats identity as the meeting point between celestial direction and a living fruit. A single smooth lychee becomes the world; a clean four-direction star opens through it. The emblem should feel discovered, then painstakingly restored—less a collection of symbols than one object with an inevitable internal logic. Its geometry is sharp, but its red surface remains warm and tactile.
+
+Space belongs to the primary form. The lychee occupies most of the square, with only enough breathing room to keep the silhouette legible. Nothing competes with it: no orbital diagrams, no decorative ticks, no surrounding pattern. The stem and one leaf establish origin and motion, while the central star provides the only counter-rhythm. Simplicity is not absence; it is the result of removing everything that does not strengthen this single proposition.
+
+The rind is smooth at silhouette scale and detailed at close range, drawing on the fine raised cells and irregular blush of a ripe Guiwei lychee rather than its sharpest forms. Oxblood, ember, and black-cherry reds shift slowly beneath low-contrast pebbling; a broad, restrained highlight reveals curvature without turning the skin into noise. The ivory star is cut from that calm field and edged by a narrow dark channel. Color behaves as material—shallow gradients, exact transitions, and a single cool jade breath in the leaf. Every edge must remain decisive at both 512 pixels and avatar scale.
+
+Balance is dramatic but exact: a large round mass, one asymmetric botanical gesture, one radiant axis. Typography acts as a plinth below the form—LITCHI STAR in wide-tracked capitals, then GAME STUDIO as a quiet secondary line. It should feel typeset, kerned, and optically corrected many times. No text may crowd the fruit; no accent may become a second subject.
+
+The final artifact must look meticulously crafted: the product of deep expertise, painstaking attention, and master-level execution. Its confidence should come from proportion, silhouette, and polished transitions rather than added detail. Refinement means reducing the composition until the dark lychee and bright compass can be understood instantly, while the finish still rewards sustained viewing.
